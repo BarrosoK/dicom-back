@@ -1,0 +1,11 @@
+flask
+flask_restful
+pandas
+jsonify
+opencv-python
+python-dotenv
+numpy
+pyjwt
+pydicom
+flask_cors
+pydicom
